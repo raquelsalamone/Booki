@@ -8,7 +8,7 @@
 </br>
 <a href="https://www.figma.com/file/B3eLowtWREc9YXzBcGRAHn/Maquettes-Booki-(desktop)?type=design&node-id=3-0&mode=design&t=z0UFacK3rZT97T0a-0" target="_blank" alt= Maquette Booki style="margin-top: 10px;"> Maquette Design</a>
 <br>
-<a href="/riding_cities_dossier_conception.pdf" target="_blank" alt=Booki style="margin-top: 10px;"> Dossier conception</a>
+<a href="/booki.pdf" target="_blank" alt=Booki style="margin-top: 10px;"> Dossier conception</a>
 </br>
 
 ---
