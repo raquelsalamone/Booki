@@ -21,4 +21,4 @@ Vous êtes chargé d'intégrer l'interface du site avec du code HTML et CSS. Pou
 </br>
 
 ---
-![](screenshot.png)
+![](mockup.png)
